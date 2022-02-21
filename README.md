@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 | 11:00 | Arquitectura de Compus             | Arquitectura de Compus            | Arquitectura de Compus            | Arquitectura de Compus            | Arquitectura de Compus |
 | 01:00 | Ecu diferenciales                  | Ecu diferenciales                 | Ecu diferenciales                 | Ecu diferenciales                 | Ecu diferenciales      |
 | 02:00 | Fundamentos de  Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                        |
-| 03:00 | Progra. Logistica                  | Progra. Logistica                 | Progra. Logistica                 | Progra. Logistica                 | Progra. Logistica      |
-| 04:00 | Lenguaje de interfaz               | Lenguaje de interfaz              | Lenguaje de interfaz              | Lenguaje de interfaz              | Lenguaje de interfaz   |
-| 05:00 | Sis. operativos                    | Sis. operativos                   | Sis. operativos                   | Sis. operativos                   | Sis. operativos        |
+| 03:00 | Progra. Logistica                  | Progra. Logistica                 | Progra. Logistica                 | Progra. Logistica                 |                        |
+| 04:00 | Lenguaje de interfaz               | Lenguaje de interfaz              | Lenguaje de interfaz              | Lenguaje de interfaz              |                        |
+| 05:00 | Sis. operativos                    | Sis. operativos                   | Sis. operativos                   | Sis. operativos                   |                        |
